@@ -1,0 +1,4 @@
+class org/xhtmlrenderer/swing/NaiveUserAgent
+resolveAndOpenStream
+ (Ljava/lang/String;)Ljava/io/InputStream;
+ (L1java/lang/String;)L1java/io/InputStream;

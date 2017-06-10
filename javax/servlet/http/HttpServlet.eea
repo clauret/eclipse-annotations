@@ -1,0 +1,25 @@
+class javax/servlet/http/HttpServlet
+doDelete
+ (Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V
+ (L1javax/servlet/http/HttpServletRequest;L1javax/servlet/http/HttpServletResponse;)V
+doGet
+ (Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V
+ (L1javax/servlet/http/HttpServletRequest;L1javax/servlet/http/HttpServletResponse;)V
+doHead
+ (Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V
+ (L1javax/servlet/http/HttpServletRequest;L1javax/servlet/http/HttpServletResponse;)V
+doOptions
+ (Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V
+ (L1javax/servlet/http/HttpServletRequest;L1javax/servlet/http/HttpServletResponse;)V
+doPost
+ (Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V
+ (L1javax/servlet/http/HttpServletRequest;L1javax/servlet/http/HttpServletResponse;)V
+doPut
+ (Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V
+ (L1javax/servlet/http/HttpServletRequest;L1javax/servlet/http/HttpServletResponse;)V
+doTrace
+ (Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V
+ (L1javax/servlet/http/HttpServletRequest;L1javax/servlet/http/HttpServletResponse;)V
+service
+ (Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V
+ (L1javax/servlet/http/HttpServletRequest;L1javax/servlet/http/HttpServletResponse;)V

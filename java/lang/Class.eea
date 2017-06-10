@@ -1,0 +1,28 @@
+class java/lang/Class
+forName
+ (Ljava/lang/String;)Ljava/lang/Class<*>;
+ (L1java/lang/String;)L1java/lang/Class<*>;
+forName
+ (Ljava/lang/String;ZLjava/lang/ClassLoader;)Ljava/lang/Class<*>;
+ (L1java/lang/String;ZL0java/lang/ClassLoader;)L1java/lang/Class<*>;
+forName0
+ (Ljava/lang/String;ZLjava/lang/ClassLoader;Ljava/lang/Class<*>;)Ljava/lang/Class<*>;
+ (L1java/lang/String;ZLjava/lang/ClassLoader;Ljava/lang/Class<*>;)L1java/lang/Class<*>;
+getAnnotations
+ ()[Ljava/lang/annotation/Annotation;
+ ()[1L1java/lang/annotation/Annotation;
+getName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getSimpleName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+newInstance
+ ()TT;
+ ()T1T;
+toGenericString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+toString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

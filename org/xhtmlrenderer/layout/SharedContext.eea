@@ -1,0 +1,4 @@
+class org/xhtmlrenderer/layout/SharedContext
+getReplacedElementFactory
+ ()Lorg/xhtmlrenderer/extend/ReplacedElementFactory;
+ ()L1org/xhtmlrenderer/extend/ReplacedElementFactory;

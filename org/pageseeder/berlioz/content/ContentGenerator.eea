@@ -1,0 +1,4 @@
+class org/pageseeder/berlioz/content/ContentGenerator
+process
+ (Lorg/pageseeder/berlioz/content/ContentRequest;Lorg/pageseeder/xmlwriter/XMLWriter;)V
+ (L1org/pageseeder/berlioz/content/ContentRequest;L1org/pageseeder/xmlwriter/XMLWriter;)V

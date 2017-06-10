@@ -1,0 +1,7 @@
+class javax/xml/bind/DatatypeConverterInterface
+parseBase64Binary
+ (Ljava/lang/String;)[B
+ (Ljava/lang/String;)[1B
+parseHexBinary
+ (Ljava/lang/String;)[B
+ (Ljava/lang/String;)[1B

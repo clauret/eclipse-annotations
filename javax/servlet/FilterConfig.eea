@@ -1,0 +1,4 @@
+class javax/servlet/FilterConfig
+getServletContext
+ ()Ljavax/servlet/ServletContext;
+ ()L1javax/servlet/ServletContext;

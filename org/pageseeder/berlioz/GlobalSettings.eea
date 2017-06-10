@@ -1,0 +1,4 @@
+class org/pageseeder/berlioz/GlobalSettings
+get
+ (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+ (Ljava/lang/String;Ljava/lang/String;)L1java/lang/String;

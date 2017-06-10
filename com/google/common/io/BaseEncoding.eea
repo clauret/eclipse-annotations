@@ -1,0 +1,10 @@
+class com/google/common/io/BaseEncoding
+base32
+ ()Lcom/google/common/io/BaseEncoding;
+ ()L1com/google/common/io/BaseEncoding;
+encode
+ ([B)Ljava/lang/String;
+ ([B)L1java/lang/String;
+omitPadding
+ ()Lcom/google/common/io/BaseEncoding;
+ ()L1com/google/common/io/BaseEncoding;

@@ -1,0 +1,4 @@
+class com/google/maps/PlacesApi
+placeDetails
+ (Lcom/google/maps/GeoApiContext;Ljava/lang/String;)Lcom/google/maps/PlaceDetailsRequest;
+ (Lcom/google/maps/GeoApiContext;Ljava/lang/String;)L1com/google/maps/PlaceDetailsRequest;

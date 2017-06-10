@@ -1,0 +1,10 @@
+class org/xhtmlrenderer/extend/ReplacedElementFactory
+createReplacedElement
+ (Lorg/xhtmlrenderer/layout/LayoutContext;Lorg/xhtmlrenderer/render/BlockBox;Lorg/xhtmlrenderer/extend/UserAgentCallback;II)Lorg/xhtmlrenderer/extend/ReplacedElement;
+ (L1org/xhtmlrenderer/layout/LayoutContext;L1org/xhtmlrenderer/render/BlockBox;L1org/xhtmlrenderer/extend/UserAgentCallback;II)Lorg/xhtmlrenderer/extend/ReplacedElement;
+remove
+ (Lorg/w3c/dom/Element;)V
+ (L1org/w3c/dom/Element;)V
+setFormSubmissionListener
+ (Lorg/xhtmlrenderer/simple/extend/FormSubmissionListener;)V
+ (L1org/xhtmlrenderer/simple/extend/FormSubmissionListener;)V

@@ -1,0 +1,7 @@
+class com/google/common/base/Joiner
+join
+ (Ljava/lang/Iterable<*>;)Ljava/lang/String;
+ (Ljava/lang/Iterable<*>;)L1java/lang/String;
+on
+ (C)Lcom/google/common/base/Joiner;
+ (C)L1com/google/common/base/Joiner;

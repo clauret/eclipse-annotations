@@ -1,0 +1,4 @@
+class com/getsentry/raven/Raven
+getStoredInstance
+ ()Lcom/getsentry/raven/Raven;
+ ()L0com/getsentry/raven/Raven;

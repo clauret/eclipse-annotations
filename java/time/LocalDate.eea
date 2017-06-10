@@ -1,0 +1,34 @@
+class java/time/LocalDate
+minus
+ (JLjava/time/temporal/TemporalUnit;)Ljava/time/LocalDate;
+ (JLjava/time/temporal/TemporalUnit;)L1java/time/LocalDate;
+minus
+ (Ljava/time/temporal/TemporalAmount;)Ljava/time/LocalDate;
+ (Ljava/time/temporal/TemporalAmount;)L1java/time/LocalDate;
+minusDays
+ (J)Ljava/time/LocalDate;
+ (J)L1java/time/LocalDate;
+minusMonths
+ (J)Ljava/time/LocalDate;
+ (J)L1java/time/LocalDate;
+minusWeeks
+ (J)Ljava/time/LocalDate;
+ (J)L1java/time/LocalDate;
+minusYears
+ (J)Ljava/time/LocalDate;
+ (J)L1java/time/LocalDate;
+now
+ ()Ljava/time/LocalDate;
+ ()L1java/time/LocalDate;
+parse
+ (Ljava/lang/CharSequence;)Ljava/time/LocalDate;
+ (Ljava/lang/CharSequence;)L1java/time/LocalDate;
+plusDays
+ (J)Ljava/time/LocalDate;
+ (J)L1java/time/LocalDate;
+plusWeeks
+ (J)Ljava/time/LocalDate;
+ (J)L1java/time/LocalDate;
+toString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

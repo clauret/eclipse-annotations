@@ -1,0 +1,7 @@
+class java/util/LinkedHashMap
+get
+ (Ljava/lang/Object;)TV;
+ (Ljava/lang/Object;)T0V;
+removeEldestEntry
+ (Ljava/util/Map$Entry<TK;TV;>;)Z
+ (L1java/util/Map$Entry<TK;TV;>;)Z

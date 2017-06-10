@@ -1,0 +1,4 @@
+class com/google/common/io/ByteStreams
+toByteArray
+ (Ljava/io/InputStream;)[B
+ (Ljava/io/InputStream;)[1B

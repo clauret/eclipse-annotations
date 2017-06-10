@@ -1,0 +1,7 @@
+class com/google/common/base/Splitter
+on
+ (C)Lcom/google/common/base/Splitter;
+ (C)L1com/google/common/base/Splitter;
+splitToList
+ (Ljava/lang/CharSequence;)Ljava/util/List<Ljava/lang/String;>;
+ (Ljava/lang/CharSequence;)L1java/util/List<Ljava/lang/String;>;

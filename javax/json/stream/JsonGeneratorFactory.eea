@@ -1,0 +1,13 @@
+class javax/json/stream/JsonGeneratorFactory
+createGenerator
+ (Ljava/io/OutputStream;)Ljavax/json/stream/JsonGenerator;
+ (Ljava/io/OutputStream;)L1javax/json/stream/JsonGenerator;
+createGenerator
+ (Ljava/io/OutputStream;Ljava/nio/charset/Charset;)Ljavax/json/stream/JsonGenerator;
+ (Ljava/io/OutputStream;Ljava/nio/charset/Charset;)L1javax/json/stream/JsonGenerator;
+createGenerator
+ (Ljava/io/Writer;)Ljavax/json/stream/JsonGenerator;
+ (Ljava/io/Writer;)L1javax/json/stream/JsonGenerator;
+getConfigInUse
+ ()Ljava/util/Map<Ljava/lang/String;*>;
+ ()L1java/util/Map<Ljava/lang/String;*>;

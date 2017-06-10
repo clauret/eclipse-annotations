@@ -1,0 +1,10 @@
+class javax/xml/transform/ErrorListener
+error
+ (Ljavax/xml/transform/TransformerException;)V
+ (L1javax/xml/transform/TransformerException;)V
+fatalError
+ (Ljavax/xml/transform/TransformerException;)V
+ (L1javax/xml/transform/TransformerException;)V
+warning
+ (Ljavax/xml/transform/TransformerException;)V
+ (L1javax/xml/transform/TransformerException;)V

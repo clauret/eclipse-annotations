@@ -1,0 +1,13 @@
+class org/xml/sax/ext/LexicalHandler
+comment
+ ([CII)V
+ ([1CII)V
+endEntity
+ (Ljava/lang/String;)V
+ (L1java/lang/String;)V
+startDTD
+ (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+ (L1java/lang/String;L0java/lang/String;L0java/lang/String;)V
+startEntity
+ (Ljava/lang/String;)V
+ (L1java/lang/String;)V

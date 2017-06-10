@@ -1,0 +1,7 @@
+class java/text/Format
+format
+ (Ljava/lang/Object;)Ljava/lang/String;
+ (Ljava/lang/Object;)L1java/lang/String;
+format
+ (Ljava/lang/Object;Ljava/lang/StringBuffer;Ljava/text/FieldPosition;)Ljava/lang/StringBuffer;
+ (L1java/lang/Object;L1java/lang/StringBuffer;Ljava/text/FieldPosition;)L1java/lang/StringBuffer;

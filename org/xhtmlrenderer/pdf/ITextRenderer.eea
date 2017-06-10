@@ -1,0 +1,7 @@
+class org/xhtmlrenderer/pdf/ITextRenderer
+getOutputDevice
+ ()Lorg/xhtmlrenderer/pdf/ITextOutputDevice;
+ ()L1org/xhtmlrenderer/pdf/ITextOutputDevice;
+getSharedContext
+ ()Lorg/xhtmlrenderer/layout/SharedContext;
+ ()L1org/xhtmlrenderer/layout/SharedContext;

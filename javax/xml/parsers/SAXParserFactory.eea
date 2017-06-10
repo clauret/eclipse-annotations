@@ -1,0 +1,10 @@
+class javax/xml/parsers/SAXParserFactory
+newInstance
+ ()Ljavax/xml/parsers/SAXParserFactory;
+ ()L1javax/xml/parsers/SAXParserFactory;
+newInstance
+ (Ljava/lang/String;Ljava/lang/ClassLoader;)Ljavax/xml/parsers/SAXParserFactory;
+ (Ljava/lang/String;Ljava/lang/ClassLoader;)L1javax/xml/parsers/SAXParserFactory;
+newSAXParser
+ ()Ljavax/xml/parsers/SAXParser;
+ ()L1javax/xml/parsers/SAXParser;

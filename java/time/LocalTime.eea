@@ -1,0 +1,4 @@
+class java/time/LocalTime
+parse
+ (Ljava/lang/CharSequence;)Ljava/time/LocalTime;
+ (Ljava/lang/CharSequence;)L1java/time/LocalTime;

@@ -1,0 +1,19 @@
+class javax/servlet/http/HttpServletResponseWrapper
+addDateHeader
+ (Ljava/lang/String;J)V
+ (L1java/lang/String;J)V
+addHeader
+ (Ljava/lang/String;Ljava/lang/String;)V
+ (L1java/lang/String;L1java/lang/String;)V
+sendError
+ (ILjava/lang/String;)V
+ (IL1java/lang/String;)V
+setDateHeader
+ (Ljava/lang/String;J)V
+ (L1java/lang/String;J)V
+setHeader
+ (Ljava/lang/String;Ljava/lang/String;)V
+ (L1java/lang/String;L1java/lang/String;)V
+setIntHeader
+ (Ljava/lang/String;I)V
+ (L1java/lang/String;I)V

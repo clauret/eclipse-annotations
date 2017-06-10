@@ -1,0 +1,13 @@
+class javax/servlet/ServletConfig
+getInitParameter
+ (Ljava/lang/String;)Ljava/lang/String;
+ (L1java/lang/String;)L0java/lang/String;
+getInitParameterNames
+ ()Ljava/util/Enumeration<Ljava/lang/String;>;
+ ()L1java/util/Enumeration<L1java/lang/String;>;
+getServletContext
+ ()Ljavax/servlet/ServletContext;
+ ()L1javax/servlet/ServletContext;
+getServletName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

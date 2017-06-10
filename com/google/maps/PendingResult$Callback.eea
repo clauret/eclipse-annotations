@@ -1,0 +1,7 @@
+class com/google/maps/PendingResult$Callback
+onFailure
+ (Ljava/lang/Throwable;)V
+ (L1java/lang/Throwable;)V
+onResult
+ (TT;)V
+ (T1T;)V

@@ -1,0 +1,4 @@
+class javax/xml/transform/TransformerFactory
+newTemplates
+ (Ljavax/xml/transform/Source;)Ljavax/xml/transform/Templates;
+ (Ljavax/xml/transform/Source;)L1javax/xml/transform/Templates;

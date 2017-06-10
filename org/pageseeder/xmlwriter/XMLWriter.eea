@@ -1,0 +1,4 @@
+class org/pageseeder/xmlwriter/XMLWriter
+writePI
+ (Ljava/lang/String;Ljava/lang/String;)V
+ (L1java/lang/String;L0java/lang/String;)V

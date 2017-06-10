@@ -1,0 +1,4 @@
+class javax/servlet/http/HttpServletRequestWrapper
+getHeader
+ (Ljava/lang/String;)Ljava/lang/String;
+ (L1java/lang/String;)Ljava/lang/String;

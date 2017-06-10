@@ -1,0 +1,25 @@
+class java/util/Collections
+emptyList
+ <T:Ljava/lang/Object;>()Ljava/util/List<TT;>;
+ <T:Ljava/lang/Object;>()L1java/util/List<T1T;>;
+emptyMap
+ <K:Ljava/lang/Object;V:Ljava/lang/Object;>()Ljava/util/Map<TK;TV;>;
+ <K:Ljava/lang/Object;V:Ljava/lang/Object;>()L1java/util/Map<T1K;T1V;>;
+enumeration
+ <T:Ljava/lang/Object;>(Ljava/util/Collection<TT;>;)Ljava/util/Enumeration<TT;>;
+ <T:Ljava/lang/Object;>(L1java/util/Collection<TT;>;)L1java/util/Enumeration<TT;>;
+singletonList
+ <T:Ljava/lang/Object;>(TT;)Ljava/util/List<TT;>;
+ <T:Ljava/lang/Object;>(T1T;)L1java/util/List<T1T;>;
+singletonMap
+ <K:Ljava/lang/Object;V:Ljava/lang/Object;>(TK;TV;)Ljava/util/Map<TK;TV;>;
+ <K:Ljava/lang/Object;V:Ljava/lang/Object;>(TK;TV;)L1java/util/Map<TK;TV;>;
+synchronizedMap
+ <K:Ljava/lang/Object;V:Ljava/lang/Object;>(Ljava/util/Map<TK;TV;>;)Ljava/util/Map<TK;TV;>;
+ <K:Ljava/lang/Object;V:Ljava/lang/Object;>(L1java/util/Map<TK;TV;>;)L1java/util/Map<TK;TV;>;
+unmodifiableList
+ <T:Ljava/lang/Object;>(Ljava/util/List<+TT;>;)Ljava/util/List<TT;>;
+ <T:Ljava/lang/Object;>(Ljava/util/List<+TT;>;)L1java/util/List<TT;>;
+unmodifiableMap
+ <K:Ljava/lang/Object;V:Ljava/lang/Object;>(Ljava/util/Map<+TK;+TV;>;)Ljava/util/Map<TK;TV;>;
+ <K:Ljava/lang/Object;V:Ljava/lang/Object;>(L1java/util/Map<+TK;+TV;>;)L1java/util/Map<TK;TV;>;

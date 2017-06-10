@@ -1,0 +1,7 @@
+class javax/json/JsonReader
+readArray
+ ()Ljavax/json/JsonArray;
+ ()L1javax/json/JsonArray;
+readObject
+ ()Ljavax/json/JsonObject;
+ ()L1javax/json/JsonObject;

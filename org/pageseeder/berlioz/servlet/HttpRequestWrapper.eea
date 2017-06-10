@@ -1,0 +1,10 @@
+class org/pageseeder/berlioz/servlet/HttpRequestWrapper
+getHttpRequest
+ ()Ljavax/servlet/http/HttpServletRequest;
+ ()L1javax/servlet/http/HttpServletRequest;
+getHttpResponse
+ ()Ljavax/servlet/http/HttpServletResponse;
+ ()L1javax/servlet/http/HttpServletResponse;
+getLocation
+ ()Lorg/pageseeder/berlioz/content/Location;
+ ()L1org/pageseeder/berlioz/content/Location;

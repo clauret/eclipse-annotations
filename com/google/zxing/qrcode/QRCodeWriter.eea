@@ -1,0 +1,7 @@
+class com/google/zxing/qrcode/QRCodeWriter
+encode
+ (Ljava/lang/String;Lcom/google/zxing/BarcodeFormat;IILjava/util/Map<Lcom/google/zxing/EncodeHintType;*>;)Lcom/google/zxing/common/BitMatrix;
+ (Ljava/lang/String;Lcom/google/zxing/BarcodeFormat;IILjava/util/Map<Lcom/google/zxing/EncodeHintType;*>;)L1com/google/zxing/common/BitMatrix;
+renderResult
+ (Lcom/google/zxing/qrcode/encoder/QRCode;III)Lcom/google/zxing/common/BitMatrix;
+ (Lcom/google/zxing/qrcode/encoder/QRCode;III)L1com/google/zxing/common/BitMatrix;

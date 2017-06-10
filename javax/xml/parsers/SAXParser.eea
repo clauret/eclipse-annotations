@@ -1,0 +1,7 @@
+class javax/xml/parsers/SAXParser
+getParser
+ ()Lorg/xml/sax/Parser;
+ ()L1org/xml/sax/Parser;
+getXMLReader
+ ()Lorg/xml/sax/XMLReader;
+ ()L1org/xml/sax/XMLReader;

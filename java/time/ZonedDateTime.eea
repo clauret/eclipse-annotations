@@ -1,0 +1,7 @@
+class java/time/ZonedDateTime
+now
+ ()Ljava/time/ZonedDateTime;
+ ()L1java/time/ZonedDateTime;
+parse
+ (Ljava/lang/CharSequence;)Ljava/time/ZonedDateTime;
+ (Ljava/lang/CharSequence;)L1java/time/ZonedDateTime;

@@ -1,0 +1,7 @@
+class java/io/ObjectInputStream
+readObject
+ ()Ljava/lang/Object;
+ ()Ljava/lang/Object;
+resolveClass
+ (Ljava/io/ObjectStreamClass;)Ljava/lang/Class<*>;
+ (L1java/io/ObjectStreamClass;)Ljava/lang/Class<*>;

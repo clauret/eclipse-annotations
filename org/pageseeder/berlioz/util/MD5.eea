@@ -1,0 +1,4 @@
+class org/pageseeder/berlioz/util/MD5
+hash
+ (Ljava/lang/String;)Ljava/lang/String;
+ (Ljava/lang/String;)L1java/lang/String;

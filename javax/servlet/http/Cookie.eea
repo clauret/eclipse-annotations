@@ -1,0 +1,4 @@
+class javax/servlet/http/Cookie
+getValue
+ ()Ljava/lang/String;
+ ()L0java/lang/String;

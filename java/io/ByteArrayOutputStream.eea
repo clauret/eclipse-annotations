@@ -1,0 +1,16 @@
+class java/io/ByteArrayOutputStream
+toByteArray
+ ()[B
+ ()[1B
+toString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+toString
+ (I)Ljava/lang/String;
+ (I)L1java/lang/String;
+toString
+ (Ljava/lang/String;)Ljava/lang/String;
+ (L1java/lang/String;)L1java/lang/String;
+writeTo
+ (Ljava/io/OutputStream;)V
+ (L1java/io/OutputStream;)V

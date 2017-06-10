@@ -1,0 +1,7 @@
+class java/lang/System
+err
+ Ljava/io/PrintStream;
+ L1java/io/PrintStream;
+out
+ Ljava/io/PrintStream;
+ L1java/io/PrintStream;

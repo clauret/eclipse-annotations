@@ -1,0 +1,4 @@
+class javax/servlet/ServletContext
+getResourcePaths
+ (Ljava/lang/String;)Ljava/util/Set<Ljava/lang/String;>;
+ (Ljava/lang/String;)L0java/util/Set<L1java/lang/String;>;

@@ -1,0 +1,4 @@
+class org/pageseeder/xmlwriter/XMLWritable
+toXML
+ (Lorg/pageseeder/xmlwriter/XMLWriter;)V
+ (L1org/pageseeder/xmlwriter/XMLWriter;)V

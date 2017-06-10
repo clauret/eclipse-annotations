@@ -1,0 +1,22 @@
+class java/time/OffsetDateTime
+MAX
+ Ljava/time/OffsetDateTime;
+ L1java/time/OffsetDateTime;
+MIN
+ Ljava/time/OffsetDateTime;
+ L1java/time/OffsetDateTime;
+format
+ (Ljava/time/format/DateTimeFormatter;)Ljava/lang/String;
+ (L1java/time/format/DateTimeFormatter;)L1java/lang/String;
+now
+ ()Ljava/time/OffsetDateTime;
+ ()L1java/time/OffsetDateTime;
+now
+ (Ljava/time/ZoneId;)Ljava/time/OffsetDateTime;
+ (Ljava/time/ZoneId;)L1java/time/OffsetDateTime;
+parse
+ (Ljava/lang/CharSequence;)Ljava/time/OffsetDateTime;
+ (Ljava/lang/CharSequence;)L1java/time/OffsetDateTime;
+toLocalDateTime
+ ()Ljava/time/LocalDateTime;
+ ()L1java/time/LocalDateTime;

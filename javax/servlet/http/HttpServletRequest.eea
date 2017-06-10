@@ -1,0 +1,43 @@
+class javax/servlet/http/HttpServletRequest
+getContextPath
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getCookies
+ ()[Ljavax/servlet/http/Cookie;
+ ()[0L1javax/servlet/http/Cookie;
+getHeaders
+ (Ljava/lang/String;)Ljava/util/Enumeration<Ljava/lang/String;>;
+ (Ljava/lang/String;)L0java/util/Enumeration<Ljava/lang/String;>;
+getMethod
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getParts
+ ()Ljava/util/Collection<Ljavax/servlet/http/Part;>;
+ ()L1java/util/Collection<L1javax/servlet/http/Part;>;
+getPathInfo
+ ()Ljava/lang/String;
+ ()L0java/lang/String;
+getPathTranslated
+ ()Ljava/lang/String;
+ ()L0java/lang/String;
+getQueryString
+ ()Ljava/lang/String;
+ ()L0java/lang/String;
+getRemoteUser
+ ()Ljava/lang/String;
+ ()L0java/lang/String;
+getRequestURI
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getRequestedSessionId
+ ()Ljava/lang/String;
+ ()L0java/lang/String;
+getSession
+ ()Ljavax/servlet/http/HttpSession;
+ ()L1javax/servlet/http/HttpSession;
+getUserPrincipal
+ ()Ljava/security/Principal;
+ ()L0java/security/Principal;
+isUserInRole
+ (Ljava/lang/String;)Z
+ (L1java/lang/String;)Z

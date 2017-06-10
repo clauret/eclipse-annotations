@@ -1,0 +1,4 @@
+class javax/servlet/ServletOutputStream
+setWriteListener
+ (Ljavax/servlet/WriteListener;)V
+ (L1javax/servlet/WriteListener;)V

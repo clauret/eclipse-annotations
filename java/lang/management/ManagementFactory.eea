@@ -1,0 +1,4 @@
+class java/lang/management/ManagementFactory
+getThreadMXBean
+ ()Ljava/lang/management/ThreadMXBean;
+ ()L1java/lang/management/ThreadMXBean;

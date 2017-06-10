@@ -1,0 +1,16 @@
+class javax/servlet/ServletRequest
+getAsyncContext
+ ()Ljavax/servlet/AsyncContext;
+ ()L1javax/servlet/AsyncContext;
+getInputStream
+ ()Ljavax/servlet/ServletInputStream;
+ ()L1javax/servlet/ServletInputStream;
+getServletContext
+ ()Ljavax/servlet/ServletContext;
+ ()L1javax/servlet/ServletContext;
+startAsync
+ ()Ljavax/servlet/AsyncContext;
+ ()L1javax/servlet/AsyncContext;
+startAsync
+ (Ljavax/servlet/ServletRequest;Ljavax/servlet/ServletResponse;)Ljavax/servlet/AsyncContext;
+ (L1javax/servlet/ServletRequest;L1javax/servlet/ServletResponse;)L1javax/servlet/AsyncContext;

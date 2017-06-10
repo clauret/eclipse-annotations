@@ -1,0 +1,13 @@
+class java/lang/Long
+parseLong
+ (Ljava/lang/String;)J
+ (L1java/lang/String;)J
+toString
+ (J)Ljava/lang/String;
+ (J)L1java/lang/String;
+valueOf
+ (J)Ljava/lang/Long;
+ (J)L1java/lang/Long;
+valueOf
+ (Ljava/lang/String;)Ljava/lang/Long;
+ (Ljava/lang/String;)L1java/lang/Long;

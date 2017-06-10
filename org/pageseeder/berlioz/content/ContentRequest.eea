@@ -1,0 +1,52 @@
+class org/pageseeder/berlioz/content/ContentRequest
+getAttribute
+ (Ljava/lang/String;)Ljava/lang/Object;
+ (L1java/lang/String;)L0java/lang/Object;
+getBerliozPath
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getCookies
+ ()[Ljavax/servlet/http/Cookie;
+ ()[L0javax/servlet/http/Cookie;
+getDateParameter
+ (Ljava/lang/String;)Ljava/util/Date;
+ (L1java/lang/String;)L0java/util/Date;
+getEnvironment
+ ()Lorg/pageseeder/berlioz/content/Environment;
+ ()L1org/pageseeder/berlioz/content/Environment;
+getIntParameter
+ (Ljava/lang/String;I)I
+ (L1java/lang/String;I)I
+getLocation
+ ()Lorg/pageseeder/berlioz/content/Location;
+ ()L1org/pageseeder/berlioz/content/Location;
+getLongParameter
+ (Ljava/lang/String;J)J
+ (L1java/lang/String;J)J
+getParameter
+ (Ljava/lang/String;)Ljava/lang/String;
+ (L1java/lang/String;)L0java/lang/String;
+getParameter
+ (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+ (L1java/lang/String;L0java/lang/String;)L0java/lang/String;
+getParameterNames
+ ()Ljava/util/Enumeration<Ljava/lang/String;>;
+ ()L1java/util/Enumeration<L1java/lang/String;>;
+getParameterValues
+ (Ljava/lang/String;)[Ljava/lang/String;
+ (L1java/lang/String;)[Ljava/lang/String;
+getPathInfo
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getSession
+ ()Ljavax/servlet/http/HttpSession;
+ ()L1javax/servlet/http/HttpSession;
+setAttribute
+ (Ljava/lang/String;Ljava/lang/Object;)V
+ (L1java/lang/String;L0java/lang/Object;)V
+setRedirect
+ (Ljava/lang/String;Lorg/pageseeder/berlioz/content/ContentStatus;)V
+ (L1java/lang/String;L1org/pageseeder/berlioz/content/ContentStatus;)V
+setStatus
+ (Lorg/pageseeder/berlioz/content/ContentStatus;)V
+ (L1org/pageseeder/berlioz/content/ContentStatus;)V
